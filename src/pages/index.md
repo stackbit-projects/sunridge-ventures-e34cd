@@ -92,7 +92,9 @@ sections:
   - section_id: cta
     type: section_cta
     title: Build a Marketing Strategy
-    subtitle: This is an optional description for the call to action block.
+    subtitle: >-
+      Form a target audience, efficiently market your brand, and grow a
+      profitable Business.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
