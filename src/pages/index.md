@@ -3,11 +3,11 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Hero Section
-    image: images/5.jpg
+    title: Turn an idea into a business
+    image: images/wp2564226-orange-background.png
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      We aim to form long term partnerships with entreprenuers who are looking
+      to learn how to grow a profitable business.
     actions:
       - label: Get Started
         url: /docs
@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Documentation
+      - title: Services
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
@@ -33,7 +33,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: Style Guide
+      - title: Portfolio
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
