@@ -7,7 +7,7 @@ sections:
     image: images/wp2564226-orange-background.png
     content: >-
       We aim to form long term partnerships with entreprenuers who are looking
-      to learn how to grow a profitable business.
+      to grow and scale a profitable business.
     actions:
       - label: Get Started
         url: /docs
