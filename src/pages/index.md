@@ -18,26 +18,25 @@ sections:
     grid_items:
       - title: Services
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          We provide full-suite digital marketing, SEO, website design, PPC,
+          social media, email marketing, instant chat services, analytics and
+          tracking, video marketing, and branding.
         actions:
           - label: Get Started
             url: /docs
             style: link
       - title: Blog
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Blog post perfectly curated for entrepreneurs. For Builders. By
+          Builders.
         actions:
           - label: View Posts
             url: /blog
             style: link
       - title: Portfolio
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Our Portfolio includes clients and businesses we have built, grown,
+          and scaled. 
         actions:
           - label: Learn More
             url: /style-guide
@@ -46,11 +45,10 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: A Section With An Image
+    title: Create a Target Audience
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We help businesses cultivate a targeted audience across Google, Facebook,
+      Instagram, and our Blog Partner websites.
     actions:
       - label: View Demo
         url: /docs/getting-started
@@ -60,18 +58,17 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Grow a Profitable Business
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Whether you're an Entreprenuer, Startup, or Small Business we aim to be
+      your long-term partner.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
+    title: Verifiable Results Guaranteed
     subtitle: An optional subtitle of the section
     col_number: two
     grid_items:
