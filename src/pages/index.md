@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Turn a hobby into a business
-    image: images/5.jpg
+    image: images/wp2564226-orange-background.png
     content: >-
       We aim to form long term partnerships with entreprenuers who are looking
       to learn how to grow a profitable business.
