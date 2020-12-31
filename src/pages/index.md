@@ -83,9 +83,8 @@ sections:
             style: link
       - title: Portfolio
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Our Portfolio includes clients and businesses we have built, grown,
+          and scaled. 
         actions:
           - label: Learn More
             url: /showcase
