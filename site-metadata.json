@@ -2,7 +2,7 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "images/1_PgNo3IdzRa7amaH0uLd5Ng.png",
+        "logo_img": "images/default-monochrome.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
