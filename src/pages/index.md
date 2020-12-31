@@ -69,7 +69,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Verifiable Results Guaranteed
-    subtitle: An optional subtitle of the section
+    subtitle: Verifiable Results Guaranteed
     col_number: two
     grid_items:
       - title: Overview
