@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Turn an idea into a business
-    image: images/wp2564226-orange-background.png
+    image: images/5.jpg
     content: >-
       We aim to form long term partnerships with entreprenuers who are looking
       to grow and scale a profitable business.
