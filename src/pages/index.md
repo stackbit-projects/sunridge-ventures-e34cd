@@ -72,7 +72,7 @@ sections:
     subtitle: Verifiable Results Guaranteed
     col_number: two
     grid_items:
-      - title: Overview
+      - title: About Us
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
