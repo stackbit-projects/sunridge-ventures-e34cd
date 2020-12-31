@@ -18,9 +18,9 @@ sections:
     grid_items:
       - title: Services
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          We provide full-suite digital marketing, SEO, website design, PPC,
+          social media, email marketing, instant chat services, analytics and
+          tracking, video marketing, and branding.
         actions:
           - label: Get Started
             url: /docs
