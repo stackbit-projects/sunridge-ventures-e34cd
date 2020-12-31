@@ -58,7 +58,7 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: Grow a Music Business
+    title: Grow a Profitable Business
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
