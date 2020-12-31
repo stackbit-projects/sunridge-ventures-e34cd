@@ -58,7 +58,7 @@ sections:
         style: secondary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Grow a Music Business
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
