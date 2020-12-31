@@ -6,8 +6,8 @@ sections:
     title: Turn a hobby into a business
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      We aim to form long term partnerships with entreprenuers who are looking
+      to learn how to grow a profitable business.
     actions:
       - label: Get Started
         url: /docs
