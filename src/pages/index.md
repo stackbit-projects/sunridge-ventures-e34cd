@@ -47,8 +47,8 @@ sections:
     image_position: left
     title: Create a Target Audience
     content: >-
-      We help businesses cultivate a targeted audience across Spotify, YouTube,
-      and our Blog Partner websites.
+      We help businesses cultivate a targeted audience across Google, Facebook,
+      Instagram, and our Blog Partner websites.
     actions:
       - label: View Demo
         url: /docs/getting-started
