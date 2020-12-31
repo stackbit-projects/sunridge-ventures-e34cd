@@ -60,9 +60,8 @@ sections:
     type: section_content
     title: Grow a Profitable Business
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Whether you're an Entreprenuer, Startup, or Small Business we aim to be
+      your long-term partner.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
