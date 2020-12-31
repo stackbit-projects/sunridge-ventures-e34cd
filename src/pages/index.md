@@ -73,10 +73,10 @@ sections:
     col_number: two
     grid_items:
       - title: About Us
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+        content: >+
+          See why we have been trusted by entreprenuers on over 2,000 marketing
+          campaigns since 2020
+
         actions:
           - label: Learn More
             url: /overview
