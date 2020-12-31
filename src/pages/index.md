@@ -18,7 +18,7 @@ sections:
     grid_items:
       - title: Services
         content: >-
-          We provide a full-suite digital marketing, SEO, website design, PPC,
+          We provide full-suite digital marketing, SEO, website design, PPC,
           social media, email marketing, instant chat services, analytics and
           tracking, video marketing, and branding.
         actions:
