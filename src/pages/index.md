@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Turn a hobby into a business
+    title: Turn an idea into a business
     image: images/wp2564226-orange-background.png
     content: >-
       We aim to form long term partnerships with entreprenuers who are looking
