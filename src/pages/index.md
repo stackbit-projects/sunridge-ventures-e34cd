@@ -68,7 +68,7 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Data-Driver Marketing
+    title: Data-Driven B
     subtitle: Verifiable Results Guaranteed
     col_number: two
     grid_items:
