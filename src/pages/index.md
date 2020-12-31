@@ -47,9 +47,8 @@ sections:
     image_position: left
     title: Create a Target Audience
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We help businesses cultivate a targeted audience across Spotify, YouTube,
+      and our Blog Partner websites.
     actions:
       - label: View Demo
         url: /docs/getting-started
